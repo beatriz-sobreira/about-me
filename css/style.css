@@ -1,7 +1,7 @@
 body{
     font-family: "Poppins", sans-serif;
     background: rgb(245,255,0);
-    background: linear-gradient(90deg, rgba(245,255,0,1) 0%, rgba(213,29,253,1) 50%, rgba(69,252,235,1) 100%);
+    background: linear-gradient(90deg, rgba(245,255,0, 0.8) 0%, rgba(213,29,253,0.8) 50%, rgba(69,252,235,0.8) 100%);
 }
 
 h1{
@@ -50,15 +50,18 @@ h1{
 }
 
 .html:hover{
-    color: #e34f26;
+    background-color:  rgba(227, 79, 38, 0.8);
+    border: 2px solid rgba(227, 79, 38, 0.8);
 }
 
 .css:hover{
-    color: #2965f1;
+    background-color:  rgba(41, 101, 241, 0.8);;
+    border: 2px solid rgba(41, 101, 241, 0.8);
 }
 
 .python:hover{
-    color: #ffde57;
+    background-color:  rgba(255, 222, 87, 0.8);
+    border: 2px solid rgba(255, 222, 87, 0.8);
 }
 
 .about{
