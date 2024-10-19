@@ -52,16 +52,19 @@ h1{
 .html:hover{
     background-color:  rgba(227, 79, 38, 0.8);
     border: 2px solid rgba(227, 79, 38, 0.8);
+    cursor: default;
 }
 
 .css:hover{
     background-color:  rgba(41, 101, 241, 0.8);;
     border: 2px solid rgba(41, 101, 241, 0.8);
+    cursor: default;
 }
 
 .python:hover{
     background-color:  rgba(255, 222, 87, 0.8);
     border: 2px solid rgba(255, 222, 87, 0.8);
+    cursor: default;
 }
 
 .about{
